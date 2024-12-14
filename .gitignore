@@ -1,3 +1,8 @@
+# Custom
+build/*
+build_android/*
+*.user
+
 # Prerequisites
 *.d
 
